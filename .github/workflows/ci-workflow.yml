@@ -1,0 +1,111 @@
+name: PHP Quality Checks
+
+on:
+    push:
+        branches: [ master ]
+    pull_request:
+        branches: [ master ]
+
+jobs:
+    cs-check:
+        name: Code style (PHP ${{ matrix.php-version }})
+        runs-on: ubuntu-latest
+        continue-on-error: ${{ matrix.php-version == '8.5' }}
+
+        strategy:
+            fail-fast: false
+            matrix:
+                php-version: [ '8.1', '8.2', '8.3', '8.4', '8.5' ]
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v4
+
+            - name: Setup PHP
+              uses: shivammathur/setup-php@v2
+              with:
+                  php-version: ${{ matrix.php-version }}
+                  coverage: none
+                  tools: composer
+
+            - name: Cache Composer dependencies
+              uses: actions/cache@v4
+              with:
+                  path: vendor
+                  key: composer-${{ matrix.php-version }}-${{ hashFiles('composer.lock') }}
+                  restore-keys: composer-${{ matrix.php-version }}-
+
+            - name: Install dependencies
+              run: composer install --prefer-dist --no-progress --no-interaction
+
+            - name: Run PHP CS Fixer
+              run: vendor/bin/php-cs-fixer fix --dry-run --diff
+
+    phpstan:
+        name: PHPStan (PHP ${{ matrix.php-version }})
+        runs-on: ubuntu-latest
+        continue-on-error: ${{ matrix.php-version == '8.5' }}
+
+        strategy:
+            fail-fast: false
+            matrix:
+                php-version: [ '8.1', '8.2', '8.3', '8.4', '8.5' ]
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v4
+
+            - name: Setup PHP
+              uses: shivammathur/setup-php@v2
+              with:
+                  php-version: ${{ matrix.php-version }}
+                  coverage: none
+                  tools: composer
+
+            - name: Cache Composer dependencies
+              uses: actions/cache@v4
+              with:
+                  path: vendor
+                  key: composer-${{ matrix.php-version }}-${{ hashFiles('composer.lock') }}
+                  restore-keys: composer-${{ matrix.php-version }}-
+
+            - name: Install dependencies
+              run: composer install --prefer-dist --no-progress --no-interaction
+
+            - name: Run PHPStan
+              run: vendor/bin/phpstan analyse --memory-limit=1G
+
+    unit-tests:
+        name: Unit tests (PHP ${{ matrix.php-version }})
+        runs-on: ubuntu-latest
+        continue-on-error: ${{ matrix.php-version == '8.5' }}
+
+        strategy:
+            fail-fast: false
+            matrix:
+                php-version: [ '8.1', '8.2', '8.3', '8.4', '8.5' ]
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v4
+
+            - name: Setup PHP
+              uses: shivammathur/setup-php@v2
+              with:
+                  php-version: ${{ matrix.php-version }}
+                  extensions: mbstring, dom, curl, json
+                  coverage: none
+                  tools: composer
+
+            - name: Cache Composer dependencies
+              uses: actions/cache@v4
+              with:
+                  path: vendor
+                  key: composer-${{ matrix.php-version }}-${{ hashFiles('composer.lock') }}
+                  restore-keys: composer-${{ matrix.php-version }}-
+
+            - name: Install dependencies
+              run: composer install --prefer-dist --no-progress --no-interaction
+
+            - name: Run PHPUnit
+              run: vendor/bin/phpunit

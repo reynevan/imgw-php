@@ -1,0 +1,2718 @@
+[
+    {
+        "opublikowano": "2026-05-17 08:45:07",
+        "stopie\u0144": "-1",
+        "data_od": "2026-05-17 08:45:56",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "31",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Poznaniu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni Kana\u0142u Mosi\u0144skiego i spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "wielkopolskie",
+                "opis": "wielkopolskie, Kana\u0142 Mosi\u0144ski, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_P_WP_1856"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-04-17 08:45:56",
+        "stopie\u0144": "-1",
+        "data_od": "2026-04-17 08:46:51",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "21",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Poznaniu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni g\u00f3rnej Warty z Liswart\u0105, spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "\u0142\u00f3dzkie",
+                "opis": "\u0142\u00f3dzkie, Warta g\u00f3rna z Liswart\u0105, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_P_LD_1816",
+                    "R_P_LD_18_A",
+                    "Z_P_LD_18_A"
+                ]
+            },
+            {
+                "wojewodztwo": "opolskie",
+                "opis": "opolskie, Warta g\u00f3rna z Liswart\u0105, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_P_OP_1816"
+                ]
+            },
+            {
+                "wojewodztwo": "\u015bl\u0105skie",
+                "opis": "\u015bl\u0105skie, Warta g\u00f3rna z Liswart\u0105, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_P_SL_18",
+                    "Z_P_SL_18_B",
+                    "Z_P_SL_18_A",
+                    "Z_P_SL_1816"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-04-21 09:56:02",
+        "stopie\u0144": "-1",
+        "data_od": "2026-04-21 10:00:11",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "24",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Poznaniu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni g\u00f3rnej Noteci, spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "kujawsko-pomorskie",
+                "opis": "kujawsko-pomorskie, Note\u0107 g\u00f3rna, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_P_KP_188_A"
+                ]
+            },
+            {
+                "wojewodztwo": "wielkopolskie",
+                "opis": "wielkopolskie, Note\u0107 g\u00f3rna, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_P_WP_188_A"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-04-24 09:25:05",
+        "stopie\u0144": "-1",
+        "data_od": "2026-04-24 09:30:00",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "72",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Warszawie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni Radomki spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "mazowieckie",
+                "opis": "mazowieckie, Radomka, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_O_MA_252"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-04-29 09:00:46",
+        "stopie\u0144": "-1",
+        "data_od": "2026-04-29 09:01:41",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "25",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Poznaniu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na odcinku Noteci \u015brodkowej spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "wielkopolskie",
+                "opis": "wielkopolskie, Note\u0107 \u015brodkowa, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_P_WP_188"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-04-29 09:06:29",
+        "stopie\u0144": "-1",
+        "data_od": "2026-04-29 09:07:27",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "26",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Poznaniu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na odcinku dolnej Noteci, spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "lubuskie",
+                "opis": "lubuskie, Note\u0107 dolna, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_P_LB_188"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-04-30 08:57:51",
+        "stopie\u0144": "-1",
+        "data_od": "2026-04-30 08:58:42",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "27",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Poznaniu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni Iny, spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "zachodniopomorskie",
+                "opis": "zachodniopomorskie, Ina i P\u0142onia, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_P_ZP_198"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-05-05 09:19:18",
+        "stopie\u0144": "-1",
+        "data_od": "2026-05-05 09:20:17",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "48",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody na obszarze zlewni Sanu od uj\u015bcia Wiaru spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "lubelskie",
+                "opis": "lubelskie, zlewnia Sanu od uj\u015bcia Wiaru, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_K_LU_2294",
+                    "Z_K_LU_2286",
+                    "Z_K_LU_228"
+                ]
+            },
+            {
+                "wojewodztwo": "podkarpackie",
+                "opis": "podkarpackie, zlewnia Sanu od uj\u015bcia Wiaru, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_PK_22_E",
+                    "R_K_PK_22_C",
+                    "R_K_PK_22_D",
+                    "Z_K_PK_228_A",
+                    "Z_K_PK_22_I",
+                    "Z_K_PK_22_E",
+                    "Z_K_PK_22_F",
+                    "Z_K_PK_2274",
+                    "Z_K_PK_2294",
+                    "Z_K_PK_228_B",
+                    "Z_K_PK_22_G",
+                    "Z_K_PK_2254",
+                    "Z_K_PK_2252",
+                    "Z_K_PK_22_H",
+                    "Z_K_PK_22_J",
+                    "Z_K_PK_2256"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-05-12 09:44:16",
+        "stopie\u0144": "-1",
+        "data_od": "2026-05-12 10:00:46",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "29",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Poznaniu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na odcinku \u015brodkowej Warty od Zbiornika Jeziorsko do We\u0142ny spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "\u0142\u00f3dzkie",
+                "opis": "\u0142\u00f3dzkie, Warta \u015brodkowa od Zb. Jeziorsko do We\u0142ny, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_P_LD_18_D"
+                ]
+            },
+            {
+                "wojewodztwo": "wielkopolskie",
+                "opis": "wielkopolskie, Warta \u015brodkowa od Zb. Jeziorsko do We\u0142ny, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_P_WP_18_B",
+                    "R_P_WP_18_A"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-05-12 09:46:27",
+        "stopie\u0144": "-1",
+        "data_od": "2026-05-12 10:00:21",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "30",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Poznaniu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na odcinku \u015brodkowej Warty od We\u0142ny do Noteci spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "lubuskie",
+                "opis": "lubuskie, Warta \u015brodkowa od We\u0142ny do Noteci, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_P_LB_18_A"
+                ]
+            },
+            {
+                "wojewodztwo": "wielkopolskie",
+                "opis": "wielkopolskie, Warta \u015brodkowa od We\u0142ny do Noteci, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_P_WP_18_C"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-05-08 08:46:51",
+        "stopie\u0144": "-1",
+        "data_od": "2026-05-08 08:47:41",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "28",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Poznaniu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni g\u00f3rnej Warty od Liswarty do Zbiornika Jeziorsko, spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "\u0142\u00f3dzkie",
+                "opis": "\u0142\u00f3dzkie, Warta g\u00f3rna od Liswarty do Zb. Jeziorsko, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_P_LD_18_B",
+                    "R_P_LD_18_C",
+                    "Z_P_LD_1828",
+                    "Z_P_LD_18292",
+                    "Z_P_LD_1818",
+                    "Z_P_LD_182",
+                    "Z_P_LD_18_C",
+                    "Z_P_LD_18_B"
+                ]
+            },
+            {
+                "wojewodztwo": "opolskie",
+                "opis": "opolskie, Warta g\u00f3rna od Liswarty do Zb. Jeziorsko, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_P_OP_18"
+                ]
+            },
+            {
+                "wojewodztwo": "\u015bl\u0105skie",
+                "opis": "\u015bl\u0105skie, Warta g\u00f3rna od Liswarty do Zb. Jeziorsko, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_P_SL_18_C"
+                ]
+            },
+            {
+                "wojewodztwo": "wielkopolskie",
+                "opis": "wielkopolskie, Warta g\u00f3rna od Liswarty do Zb. Jeziorsko, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_P_WP_18_A"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-29 10:23:33",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-29 10:24:22",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "89",
+        "biuro": "Biuro Prognoz Hydrologicznych w Gdyni, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Gdyni",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni rzeki Radunia spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "pomorskie",
+                "opis": "pomorskie, Martwa Wis\u0142a, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_G_PM_486"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-05-20 08:30:50",
+        "stopie\u0144": "-1",
+        "data_od": "2026-05-20 08:31:45",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "70",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na obszarze zlewni Wieprza wraz ze zbiornikiem Nielisz spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "lubelskie",
+                "opis": "lubelskie, zlewnia Wieprza wraz ze zb. Nielisz, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_K_LU_24_A",
+                    "Z_K_LU_24174"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-05-21 09:30:04",
+        "stopie\u0144": "-1",
+        "data_od": "2026-05-21 09:30:58",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "32",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Poznaniu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na odcinku dolnej Warty od Noteci do uj\u015bcia spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "lubuskie",
+                "opis": "lubuskie, Warta dolna od Noteci do uj\u015bcia, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_P_LB_18_C",
+                    "R_P_LB_18_B"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-05-22 07:42:20",
+        "stopie\u0144": "-1",
+        "data_od": "2026-05-22 07:43:11",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "71",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na obszarze zlewni Wieprza od zbiornika Nielisz do uj\u015bcia Bystrzycy (wraz ze zlewni\u0105 Bystrzycy), Wy\u017cnicy i przyrzecza Wis\u0142y spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "lubelskie",
+                "opis": "lubelskie, zlewnie Wieprza od zb. Nielisz o uj\u015bcia Bystrzycy, zlewnia Bystrzycy i Wy\u017cnicy, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_LU_24_A",
+                    "Z_K_LU_24_C",
+                    "Z_K_LU_2456",
+                    "Z_K_LU_2436",
+                    "Z_K_LU_246",
+                    "Z_K_LU_244",
+                    "Z_K_LU_2_A",
+                    "Z_K_LU_2336",
+                    "Z_K_LU_242",
+                    "Z_K_LU_2434",
+                    "Z_K_LU_24_B",
+                    "Z_K_LU_2432"
+                ]
+            },
+            {
+                "wojewodztwo": "podkarpackie",
+                "opis": "podkarpackie, zlewnie Wieprza od zb. Nielisz o uj\u015bcia Bystrzycy, zlewnia Bystrzycy i Wy\u017cnicy, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_K_PK_2_B"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-05-26 09:23:49",
+        "stopie\u0144": "-1",
+        "data_od": "2026-05-26 09:30:50",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "83",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Warszawie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni g\u00f3rnej Pilicy spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "\u0142\u00f3dzkie",
+                "opis": "\u0142\u00f3dzkie, Pilica do Zb. Sulej\u00f3w, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_O_LD_254_A"
+                ]
+            },
+            {
+                "wojewodztwo": "\u015bl\u0105skie",
+                "opis": "\u015bl\u0105skie, Pilica do Zb. Sulej\u00f3w, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_O_SL_254"
+                ]
+            },
+            {
+                "wojewodztwo": "\u015bwi\u0119tokrzyskie",
+                "opis": "\u015bwi\u0119tokrzyskie, Pilica do Zb. Sulej\u00f3w, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_O_SW_254_A"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-06 09:20:01",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-06 09:20:57",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "150",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na obszarze zlewni Nidy spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "\u015bwi\u0119tokrzyskie",
+                "opis": "\u015bwi\u0119tokrzyskie, Zlewnia Nidy, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_SW_216",
+                    "Z_K_SW_216_A",
+                    "Z_K_SW_2162",
+                    "Z_K_SW_21648",
+                    "Z_K_SW_2164",
+                    "Z_K_SW_2166",
+                    "Z_K_SW_21644",
+                    "Z_K_SW_216_B"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-05-27 08:52:02",
+        "stopie\u0144": "-1",
+        "data_od": "2026-05-27 08:52:50",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "33",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Poznaniu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach, na odcinku dolnej Odry od Warty do Gryfina, spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "lubuskie",
+                "opis": "lubuskie, Odra dolna od Warty do Gryfina, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_P_LB_1_B"
+                ]
+            },
+            {
+                "wojewodztwo": "zachodniopomorskie",
+                "opis": "zachodniopomorskie, Odra dolna od Warty do Gryfina, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_P_ZP_1_B",
+                    "R_P_ZP_1_A"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-05-28 09:25:54",
+        "stopie\u0144": "-1",
+        "data_od": "2026-05-28 09:26:47",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "34",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Poznaniu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": " W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach, w zlewni Drawy, spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "lubuskie",
+                "opis": "lubuskie, Drawa, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_P_LB_1888"
+                ]
+            },
+            {
+                "wojewodztwo": "wielkopolskie",
+                "opis": "wielkopolskie, Drawa, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_P_WP_1888"
+                ]
+            },
+            {
+                "wojewodztwo": "zachodniopomorskie",
+                "opis": "zachodniopomorskie, Drawa, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_P_ZP_1888"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-05-29 09:45:50",
+        "stopie\u0144": "-1",
+        "data_od": "2026-05-29 09:50:00",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "88",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Warszawie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni I\u0142\u017canki spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "mazowieckie",
+                "opis": "mazowieckie, I\u0142\u017canka, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_O_MA_236",
+                    "Z_O_MA_2_A"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-05-29 09:47:13",
+        "stopie\u0144": "-1",
+        "data_od": "2026-05-29 09:50:00",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "89",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Warszawie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni dolnej Pilicy spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "\u0142\u00f3dzkie",
+                "opis": "\u0142\u00f3dzkie, Pilica od Zb. Sulej\u00f3w, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_O_LD_254_B"
+                ]
+            },
+            {
+                "wojewodztwo": "mazowieckie",
+                "opis": "mazowieckie, Pilica od Zb. Sulej\u00f3w, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_O_MA_254"
+                ]
+            },
+            {
+                "wojewodztwo": "\u015bwi\u0119tokrzyskie",
+                "opis": "\u015bwi\u0119tokrzyskie, Pilica od Zb. Sulej\u00f3w, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_O_SW_254_B"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-05-29 09:48:44",
+        "stopie\u0144": "-1",
+        "data_od": "2026-05-29 09:50:00",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "90",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Warszawie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni Bugu spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "mazowieckie",
+                "opis": "mazowieckie, Bug, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_O_MA_266",
+                    "Z_O_MA_266"
+                ]
+            },
+            {
+                "wojewodztwo": "podlaskie",
+                "opis": "podlaskie, Bug, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_O_PD_266",
+                    "R_O_PD_266"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-05-29 13:57:12",
+        "stopie\u0144": "-1",
+        "data_od": "2026-05-29 14:00:00",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "72",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na obszarze zlewni Bugu do uj\u015bcia Uherki (wraz ze zlewni\u0105 Uherki), spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "lubelskie",
+                "opis": "lubelskie, Zlewnia Bugu do uj\u015bcia Uherki (wraz ze zlewni\u0105 Uherki), susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_LU_266_A",
+                    "Z_K_LU_267142",
+                    "Z_K_LU_266_A",
+                    "Z_K_LU_2671434",
+                    "Z_K_LU_266_B"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-06-01 09:38:58",
+        "stopie\u0144": "-1",
+        "data_od": "2026-06-01 09:39:45",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "81",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody na obszarze zlewni Wis\u0142oka od uj\u015bcia Lubat\u00f3wki spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "podkarpackie",
+                "opis": "podkarpackie, zlewnia Wis\u0142oka od uj\u015bcia Lubat\u00f3wki, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_PK_226_C",
+                    "R_K_PK_226_D",
+                    "R_K_PK_226_B",
+                    "Z_K_PK_226_D",
+                    "Z_K_PK_2264",
+                    "Z_K_PK_226_C",
+                    "Z_K_PK_2268"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-06-12 09:24:48",
+        "stopie\u0144": "-1",
+        "data_od": "2026-06-12 09:25:42",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "41",
+        "biuro": "Biuro Prognoz Hydrologicznych w Gdyni, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Gdyni",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na odcinku Wis\u0142y od Torunia do Tczewa spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "kujawsko-pomorskie",
+                "opis": "kujawsko-pomorskie, Wis\u0142a od Torunia do Tczewa (rz), susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_G_KP_2_C"
+                ]
+            },
+            {
+                "wojewodztwo": "pomorskie",
+                "opis": "pomorskie, Wis\u0142a od Torunia do Tczewa (rz), susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_G_PM_2_A"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-06-01 09:26:49",
+        "stopie\u0144": "-1",
+        "data_od": "2026-06-01 09:30:00",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "92",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Warszawie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni dolnej Narwi spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "mazowieckie",
+                "opis": "mazowieckie, Dolna Narew, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_O_MA_26",
+                    "Z_O_MA_26"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-06-01 09:22:13",
+        "stopie\u0144": "-1",
+        "data_od": "2026-06-01 09:30:00",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "91",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Warszawie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni \u015brodkowej Narwi spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "podlaskie",
+                "opis": "podlaskie, \u015arodkowa Narew, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_O_PD_26_B",
+                    "Z_O_PD_26_B"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-06-02 10:25:54",
+        "stopie\u0144": "-1",
+        "data_od": "2026-06-02 10:26:38",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "32",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych we Wroc\u0142awiu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "Na obszarze obj\u0119tym ostrze\u017ceniem hydrologicznym przep\u0142ywy uk\u0142adaj\u0105 si\u0119 poni\u017cej warto\u015bci granicznej SNQ. W okresie wa\u017cno\u015bci ostrze\u017cenia przewiduje si\u0119 dalszy rozw\u00f3j ni\u017c\u00f3wki hydrologicznej z okresowymi wahaniami przep\u0142ywu (przej\u015bciowo powy\u017cej SNQ), zwi\u0105zanymi z dzia\u0142aniem urz\u0105dze\u0144 hydrotechnicznych lub z mo\u017cliwymi opadami deszczu.\n\n",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "dolno\u015bl\u0105skie",
+                "opis": "dolno\u015bl\u0105skie, Czerna Wielka, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_W_DS_168"
+                ]
+            },
+            {
+                "wojewodztwo": "lubuskie",
+                "opis": "lubuskie, Czerna Wielka, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_W_LB_168"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-06-03 09:33:42",
+        "stopie\u0144": "-1",
+        "data_od": "2026-06-03 09:40:00",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "95",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Warszawie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni \u015awidra spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "mazowieckie",
+                "opis": "mazowieckie, \u015awider, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_O_MA_256"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-06-03 09:35:21",
+        "stopie\u0144": "-1",
+        "data_od": "2026-06-03 09:40:00",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "96",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Warszawie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni Liwca spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "mazowieckie",
+                "opis": "mazowieckie, Liwiec, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_O_MA_267148_A",
+                    "Z_O_MA_267148_B"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-06-03 09:51:21",
+        "stopie\u0144": "-1",
+        "data_od": "2026-06-03 09:52:08",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "91",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody na obszarze zlewni Bugu od uj\u015bcia Uherki do Krzyczewa spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "lubelskie",
+                "opis": "lubelskie, zlewnia Bugu od uj\u015bcia Uherki do Krzyczewa, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_LU_2664",
+                    "R_K_LU_266_B",
+                    "Z_K_LU_2671448",
+                    "Z_K_LU_26636",
+                    "Z_K_LU_2664",
+                    "Z_K_LU_266_C"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-30 08:39:35",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-30 08:40:23",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "95",
+        "numer": "191",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na obszarze zlewni Szreniawy, Nidzicy i przyrzecza Wis\u0142y spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "ma\u0142opolskie",
+                "opis": "ma\u0142opolskie, zlewnie Szreniawy, Nidzicy i przyrzecze Wis\u0142y, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_K_MP_21398",
+                    "Z_K_MP_21392"
+                ]
+            },
+            {
+                "wojewodztwo": "\u015bwi\u0119tokrzyskie",
+                "opis": "\u015bwi\u0119tokrzyskie, zlewnie Szreniawy, Nidzicy i przyrzecze Wis\u0142y, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_K_SW_2_A",
+                    "Z_K_SW_21398"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-06-25 09:22:46",
+        "stopie\u0144": "-1",
+        "data_od": "2026-06-25 09:23:42",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "52",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Poznaniu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach, w zlewni We\u0142ny spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "kujawsko-pomorskie",
+                "opis": "kujawsko-pomorskie, We\u0142na, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_P_KP_186"
+                ]
+            },
+            {
+                "wojewodztwo": "wielkopolskie",
+                "opis": "wielkopolskie, We\u0142na, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_P_WP_186"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-06-26 09:13:44",
+        "stopie\u0144": "-1",
+        "data_od": "2026-06-26 09:14:41",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "123",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na obszarze zlewni \u0141\u0119gu i przyrzecza Wis\u0142y spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "podkarpackie",
+                "opis": "podkarpackie, zlewnia \u0141\u0119gu i przyrzecze Wis\u0142y, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_K_PK_2_A",
+                    "Z_K_PK_2198"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-30 08:41:31",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-30 08:42:27",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "192",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na obszarze zlewni Sanu do uj\u015bcia Os\u0142awy (wraz ze zlewni\u0105 Os\u0142awy) spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "podkarpackie",
+                "opis": "podkarpackie, zlewnia Sanu do uj\u015bcia Os\u0142awy (wraz ze zlewni\u0105 Os\u0142awy), susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_PK_22_A",
+                    "Z_K_PK_2218",
+                    "Z_K_PK_22_A",
+                    "Z_K_PK_22_B",
+                    "Z_K_PK_222",
+                    "Z_K_PK_22134"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-18 10:15:12",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-18 10:16:06",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "72",
+        "biuro": "Biuro Prognoz Hydrologicznych w Gdyni, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Gdyni",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na obszarze zlewni rzeki Drw\u0119cy od Welu do Rypienicy spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "warmi\u0144sko-mazurskie",
+                "opis": "warmi\u0144sko-mazurskie, Drw\u0119ca od Welu do Rypienicy, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_G_WM_28_B"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-30 08:42:55",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-30 08:43:52",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "193",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na obszarze zlewni Strwi\u0105\u017ca spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "podkarpackie",
+                "opis": "podkarpackie, zlewnia Strwi\u0105\u017ca, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_K_PK_76"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-02 10:35:51",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-02 11:00:00",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "123",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Warszawie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni Niemna spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "podlaskie",
+                "opis": "podlaskie, Niemen, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_O_PD_6"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-24 13:58:18",
+        "stopie\u0144": "2",
+        "data_od": "2026-08-24 13:59:17",
+        "data_do": "2026-08-25 09:00:00",
+        "prawdopodobienstwo": "90",
+        "numer": "181",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Warszawie",
+        "zdarzenie": "Wezbranie z przekroczeniem stan\u00f3w ostrzegawczych",
+        "przebieg": "W zwi\u0105zku ze sp\u0142ywem w\u00f3d opadowych, na Utracie w Krubicach, przewiduje si\u0119 dalszy wzrost poziomu wody do strefy powy\u017cej stanu ostrzegawczego.",
+        "komentarz": "Brak",
+        "obszary": [
+            {
+                "wojewodztwo": "mazowieckie",
+                "opis": "mazowieckie, Bzura, wezbranie z przekroczeniem stan\u00f3w ostrzegawczych",
+                "kod_zlewni": [
+                    "Z_O_MA_2728"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-24 14:00:36",
+        "stopie\u0144": "2",
+        "data_od": "2026-08-24 14:01:29",
+        "data_do": "2026-08-25 10:00:00",
+        "prawdopodobienstwo": "80",
+        "numer": "182",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Warszawie",
+        "zdarzenie": "Wezbranie z przekroczeniem stan\u00f3w ostrzegawczych",
+        "przebieg": "W zwi\u0105zku ze sp\u0142ywem w\u00f3d opadowych, na stacji Olsztyn-Kortowo spodziewane s\u0105 wahania przy przekroczonym stanie ostrzegawczym.",
+        "komentarz": "Brak",
+        "obszary": [
+            {
+                "wojewodztwo": "warmi\u0144sko-mazurskie",
+                "opis": "warmi\u0144sko-mazurskie, G\u00f3rna \u0141yna, wezbranie z przekroczeniem stan\u00f3w ostrzegawczych",
+                "kod_zlewni": [
+                    "Z_O_WM_584_A"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-03 09:21:39",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-03 09:22:27",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "124",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Warszawie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni Wis\u0142y od D\u0119blina do uj\u015bcia Narwi spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "mazowieckie",
+                "opis": "mazowieckie, Wis\u0142a od D\u0119blina do uj\u015bcia Narwi, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_O_MA_2_A",
+                    "Z_O_MA_2_B"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-04 09:22:43",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-04 09:23:39",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "93",
+        "biuro": "Biuro Prognoz Hydrologicznych w Gdyni, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Gdyni",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni rzeki Wierzyca spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "pomorskie",
+                "opis": "pomorskie, Wierzyca od \u017ar\u00f3d\u0142a do Bo\u017cegopola Szlacheckiego, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_G_PM_298_A"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-01 10:10:00",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-01 10:10:57",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "139",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na obszarze zlewni Wieprza od uj\u015bcia Bystrzycy do uj\u015bcia, Kur\u00f3wka i przyrzecze Wis\u0142y spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "lubelskie",
+                "opis": "lubelskie, zlewnie Wieprza od uj\u015bcia Bystrzycy do uj\u015bcia, Kur\u00f3wki i przyrzecze Wis\u0142y, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_LU_24_C",
+                    "R_K_LU_24_B",
+                    "Z_K_LU_248_A",
+                    "Z_K_LU_2392",
+                    "Z_K_LU_2_B",
+                    "Z_K_LU_24_D",
+                    "Z_K_LU_2492",
+                    "Z_K_LU_248_B",
+                    "Z_K_LU_24_E"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-02 09:20:30",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-02 09:21:25",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "62",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Poznaniu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na obszarze zlewni g\u00f3rnej Prosny, spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "\u0142\u00f3dzkie",
+                "opis": "\u0142\u00f3dzkie, Prosna g\u00f3rna, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_P_LD_1842",
+                    "Z_P_LD_184_A"
+                ]
+            },
+            {
+                "wojewodztwo": "opolskie",
+                "opis": "opolskie, Prosna g\u00f3rna, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_P_OP_184"
+                ]
+            },
+            {
+                "wojewodztwo": "wielkopolskie",
+                "opis": "wielkopolskie, Prosna g\u00f3rna, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_P_WP_1842",
+                    "Z_P_WP_184_A"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-17 09:41:47",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-17 09:45:00",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "166",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Warszawie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni g\u00f3rnego E\u0142ku i Legi spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "warmi\u0144sko-mazurskie",
+                "opis": "warmi\u0144sko-mazurskie, G\u00f3rny E\u0142k, G\u00f3rna Lega, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_O_WM_2626"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-03 09:24:41",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-03 09:25:29",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "125",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Warszawie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni Wis\u0142y od uj\u015bcia Narwi do uj\u015bcia Zg\u0142owi\u0105czki (wraz ze zlewni\u0105 Zg\u0142owi\u0105czki) spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "kujawsko-pomorskie",
+                "opis": "kujawsko-pomorskie, Wis\u0142a od uj\u015bcia Narwi do uj\u015bcia Zg\u0142owi\u0105czki, Zg\u0142owi\u0105czka, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_O_KP_2_A",
+                    "Z_O_KP_278",
+                    "Z_O_KP_2"
+                ]
+            },
+            {
+                "wojewodztwo": "mazowieckie",
+                "opis": "mazowieckie, Wis\u0142a od uj\u015bcia Narwi do uj\u015bcia Zg\u0142owi\u0105czki, Zg\u0142owi\u0105czka, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_O_MA_2_B",
+                    "Z_O_MA_2_C"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-03 09:30:57",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-03 09:31:47",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "145",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody na obszarze zlewni Sanu od uj\u015bcia Os\u0142awy do uj\u015bcia Wiaru (wraz ze zlewni\u0105 Wiaru) spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "podkarpackie",
+                "opis": "podkarpackie, zlewnia Sanu od uj\u015bcia Os\u0142awy do uj\u015bcia Wiaru (wraz ze zlewni\u0105 Wiaru), susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_PK_22_B",
+                    "Z_K_PK_224",
+                    "Z_K_PK_22_D",
+                    "Z_K_PK_22_C"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-04 09:21:57",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-04 09:22:43",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "147",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na obszarze zlewni Rudawy, Pr\u0105dnika i przyrzecza Wis\u0142y spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "ma\u0142opolskie",
+                "opis": "ma\u0142opolskie, zlewnie Rudawy, Pr\u0105dnika i przyrzecze Wis\u0142y, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_K_MP_2136",
+                    "Z_K_MP_2_E",
+                    "Z_K_MP_2_G",
+                    "Z_K_MP_21374"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-04 11:39:15",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-04 11:40:11",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "63",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych we Wroc\u0142awiu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zlewniach dop\u0142yw\u00f3w Odry \u015brodkowej od uj\u015bcia Bobru do S\u0142ubic oraz w zlewniach prawostronnych dop\u0142yw\u00f3w Nysy \u0141u\u017cyckiej (Skroda, Lubsza) warto\u015bci nat\u0119\u017cenia przep\u0142ywu uk\u0142adaj\u0105 si\u0119 miejscami poni\u017cej SNQ. Poniewa\u017c w najbli\u017cszym okresie nie przewiduje si\u0119 wystarczaj\u0105co wysokiej sumy opad\u00f3w deszczu, spodziewane jest utrzymanie si\u0119 aktualnych warunk\u00f3w hydrologicznych - przep\u0142yw\u00f3w poni\u017cej SNQ z wahaniami, mog\u0105cymi wynika\u0107 z prowadzonej lokalnie gospodarki wodnej lub z nieokresowych opad\u00f3w deszczu. W konsekwencji narastaj\u0105cego deficytu opad\u00f3w, mo\u017ce dochodzi\u0107 do rozwoju hydrologicznej suszy.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "lubuskie",
+                "opis": "lubuskie, Nysa \u0141u\u017cycka od Zgorzelca do uj\u015bcia, Odra od uj\u015bcia Bobru do S\u0142ubic, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_W_LB_174",
+                    "Z_W_LB_1_C",
+                    "Z_W_LB_1_B"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-04 11:39:27",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-04 11:40:21",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "64",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych we Wroc\u0142awiu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zlewniach dop\u0142yw\u00f3w (g\u0142\u00f3wnie prawostronnych) Odry \u015brodkowej od uj\u015bcia Nysy K\u0142odzkiej do uj\u015bcia Widawy (w tym Stobrawa, Smortawa, Widawa) warto\u015bci nat\u0119\u017cenia przep\u0142ywu uk\u0142adaj\u0105 si\u0119 miejscami na poziomie zbli\u017conym do SNQ (zlewnia Widawy) lub poni\u017cej tej warto\u015bci granicznej. Poniewa\u017c w najbli\u017cszym okresie nie przewiduje si\u0119 wystarczaj\u0105co wysokiej sumy opad\u00f3w deszczu, spodziewane jest utrzymanie si\u0119 aktualnych warunk\u00f3w hydrologicznych - przep\u0142yw\u00f3w poni\u017cej SNQ z wahaniami, mog\u0105cymi wynika\u0107 z prowadzonej lokalnie gospodarki wodnej lub z nieokresowych opad\u00f3w deszczu. W konsekwencji narastaj\u0105cego deficytu opad\u00f3w, mo\u017ce dochodzi\u0107 do rozwoju hydrologicznej suszy.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "dolno\u015bl\u0105skie",
+                "opis": "dolno\u015bl\u0105skie, Zlewnia Widawy, Stobrawy, Odra od uj\u015bcia Nysy K\u0142odzkiej do uj\u015bcia Widawy, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_W_DS_136",
+                    "Z_W_DS_1_A",
+                    "Z_W_DS_136"
+                ]
+            },
+            {
+                "wojewodztwo": "opolskie",
+                "opis": "opolskie, Zlewnia Widawy, Stobrawy, Odra od uj\u015bcia Nysy K\u0142odzkiej do uj\u015bcia Widawy, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_W_OP_136",
+                    "Z_W_OP_1_C",
+                    "Z_W_OP_136",
+                    "Z_W_OP_132"
+                ]
+            },
+            {
+                "wojewodztwo": "wielkopolskie",
+                "opis": "wielkopolskie, Zlewnia Widawy, Stobrawy, Odra od uj\u015bcia Nysy K\u0142odzkiej do uj\u015bcia Widawy, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_W_WP_136"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-05 08:20:37",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-05 08:21:23",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "149",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na obszarze zlewni Wis\u0142oki od uj\u015bcia Jasio\u0142ki spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "ma\u0142opolskie",
+                "opis": "ma\u0142opolskie, zlewnia Wis\u0142oki od uj\u015bcia Jasio\u0142ki, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_K_MP_21876"
+                ]
+            },
+            {
+                "wojewodztwo": "podkarpackie",
+                "opis": "podkarpackie, zlewnia Wis\u0142oki od uj\u015bcia Jasio\u0142ki, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_PK_218_A",
+                    "R_K_PK_218_B",
+                    "Z_K_PK_218_C",
+                    "Z_K_PK_218_B",
+                    "Z_K_PK_2188",
+                    "Z_K_PK_21876"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-05 09:07:19",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-05 09:08:08",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "64",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Poznaniu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na odcinku \u015brodkowej Odry od S\u0142ubic do Warty, spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "lubuskie",
+                "opis": "lubuskie, Odra \u015brodkowa od S\u0142ubic do Warty, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_P_LB_1_A"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-04 11:39:34",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-04 11:40:29",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "65",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych we Wroc\u0142awiu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zlewni Bystrzycy warto\u015bci nat\u0119\u017cenia przep\u0142ywu uk\u0142adaj\u0105 si\u0119 miejscami na poziomie zbli\u017conym do SNQ lub poni\u017cej tej warto\u015bci granicznej. Poniewa\u017c w najbli\u017cszym okresie nie przewiduje si\u0119 wystarczaj\u0105co wysokiej sumy opad\u00f3w deszczu, spodziewane jest utrzymanie si\u0119 aktualnych warunk\u00f3w hydrologicznych - przep\u0142yw\u00f3w poni\u017cej SNQ z wahaniami, mog\u0105cymi wynika\u0107 z prowadzonej lokalnie gospodarki wodnej lub z nieokresowych opad\u00f3w deszczu. W konsekwencji narastaj\u0105cego deficytu opad\u00f3w, mo\u017ce dochodzi\u0107 do rozwoju hydrologicznej suszy.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "dolno\u015bl\u0105skie",
+                "opis": "dolno\u015bl\u0105skie, Zlewnia Bystrzycy, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_W_DS_1348",
+                    "R_W_DS_134_A",
+                    "Z_W_DS_134_B",
+                    "Z_W_DS_1348",
+                    "Z_W_DS_134_A"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-24 14:57:44",
+        "stopie\u0144": "1",
+        "data_od": "2026-08-24 14:58:32",
+        "data_do": "2026-08-25 08:00:00",
+        "prawdopodobienstwo": "70",
+        "numer": "183",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Warszawie",
+        "zdarzenie": "Gwa\u0142towne wzrosty stan\u00f3w wody",
+        "przebieg": "W zwi\u0105zku z prognozowanymi opadami deszczu o charakterze burzowym, w zlewni rzeki Guber mo\u017cliwe s\u0105 wzrosty stanu wody, miejscami w strefie wody wysokiej. Na Sajnie w Bykowie spodziewane s\u0105 wzrosty stanu wody w wodzie wysokiej (stacja bez okre\u015blonego stanu ostrzegawczego i alarmowego).",
+        "komentarz": "W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrze\u017cenie mo\u017ce ulec zmianie.",
+        "obszary": [
+            {
+                "wojewodztwo": "warmi\u0144sko-mazurskie",
+                "opis": "warmi\u0144sko-mazurskie, Guber, gwa\u0142towne wzrosty stan\u00f3w wody",
+                "kod_zlewni": [
+                    "Z_O_WM_5848"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-04 11:48:43",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-04 11:49:41",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "67",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych we Wroc\u0142awiu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "Na Odrze od uj\u015bcia Bobru do S\u0142ubic warto\u015bci nat\u0119\u017cenia przep\u0142ywu uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ. Poniewa\u017c w najbli\u017cszym okresie nie przewiduje si\u0119 wystarczaj\u0105co wysokiej sumy opad\u00f3w deszczu, spodziewane jest utrzymanie si\u0119 aktualnych warunk\u00f3w hydrologicznych - przep\u0142yw\u00f3w poni\u017cej SNQ z wahaniami, mog\u0105cymi wynika\u0107 z prowadzonej lokalnie gospodarki wodnej, zw\u0142aszcza zmian wielko\u015bci dyspozycji odp\u0142ywu ze zbiornik\u00f3w retencyjnych na dop\u0142ywach Odry g\u00f3rnej i \u015brodkowej. W konsekwencji narastaj\u0105cego deficytu opad\u00f3w, mo\u017ce dochodzi\u0107 do rozwoju hydrologicznej suszy.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "lubuskie",
+                "opis": "lubuskie, Odra od uj\u015bcia Bobru do S\u0142ubic, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_W_LB_1_B"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-05 08:24:18",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-05 08:30:00",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "126",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Warszawie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni Orzyca spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "mazowieckie",
+                "opis": "mazowieckie, Orzyc, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_O_MA_2658"
+                ]
+            },
+            {
+                "wojewodztwo": "warmi\u0144sko-mazurskie",
+                "opis": "warmi\u0144sko-mazurskie, Orzyc, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_O_WM_2658"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-05 09:31:37",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-05 09:32:29",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "61",
+        "biuro": "Biuro Prognoz Hydrologicznych w Gdyni, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Gdyni",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na odcinku Wis\u0142y od  Zb. W\u0142oc\u0142awek do Torunia spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "kujawsko-pomorskie",
+                "opis": "kujawsko-pomorskie, Wis\u0142a od Zb. W\u0142oc\u0142awek do Torunia (rz), susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_G_KP_2_B"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-04 11:48:50",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-04 11:49:42",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "68",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych we Wroc\u0142awiu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zlewniach dop\u0142yw\u00f3w Odry \u015brodkowej od uj\u015bcia Widawy do uj\u015bcia Kaczawy oraz w zlewni Kaczawy warto\u015bci nat\u0119\u017cenia przep\u0142ywu uk\u0142adaj\u0105 si\u0119 miejscami poni\u017cej SNQ. Poniewa\u017c w najbli\u017cszym okresie nie przewiduje si\u0119 wystarczaj\u0105co wysokiej sumy opad\u00f3w deszczu, spodziewane jest utrzymanie si\u0119 aktualnych warunk\u00f3w hydrologicznych - przep\u0142yw\u00f3w poni\u017cej SNQ z wahaniami, mog\u0105cymi wynika\u0107 z prowadzonej lokalnie gospodarki wodnej lub z nieokresowych opad\u00f3w deszczu. W konsekwencji narastaj\u0105cego deficytu opad\u00f3w mo\u017ce dochodzi\u0107 do rozwoju hydrologicznej suszy.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "dolno\u015bl\u0105skie",
+                "opis": "dolno\u015bl\u0105skie,  Odra od uj\u015bcia Widawy do \u015acinawy, zlewnia Kaczawy, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_W_DS_138",
+                    "R_W_DS_1384",
+                    "Z_W_DS_1_B",
+                    "Z_W_DS_138_A",
+                    "Z_W_DS_138_B",
+                    "Z_W_DS_13866"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-04 12:29:55",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-04 12:30:41",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "61",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych we Wroc\u0142awiu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "Na \u015al\u0119zie od Borowa do uj\u015bcia do Odry warto\u015bci nat\u0119\u017cenia przep\u0142ywu uk\u0142adaj\u0105 si\u0119 odcinkami na poziomie zbli\u017conym do SNQ lub poni\u017cej. Poniewa\u017c w najbli\u017cszym okresie nie przewiduje si\u0119 wystarczaj\u0105co wysokiej sumy opad\u00f3w deszczu, spodziewane jest utrzymanie si\u0119 aktualnych warunk\u00f3w hydrologicznych - przep\u0142yw\u00f3w poni\u017cej SNQ z wahaniami, mog\u0105cymi wynika\u0107 z prowadzonej lokalnie gospodarki wodnej lub z nieokresowych opad\u00f3w deszczu. W konsekwencji narastaj\u0105cego deficytu opad\u00f3w, mo\u017ce dochodzi\u0107 do rozwoju hydrologicznej suszy.",
+        "komentarz": "Zmiana dotyczy tre\u015bci i uzupe\u0142nienia ostrze\u017cenia nr 66 o rzek\u0119 \u015al\u0119z\u0119 poni\u017cej Borowa, a tak\u017ce zmiany obszaru - zlewnia \u015al\u0119zy i O\u0142awy zosta\u0142y obj\u0119te ostrze\u017ceniem nr 66.",
+        "obszary": [
+            {
+                "wojewodztwo": "dolno\u015bl\u0105skie",
+                "opis": "dolno\u015bl\u0105skie, \u015al\u0119za od Borowa do uj\u015bcia do Odry, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_W_DS_1336"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-08 11:31:45",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-08 11:32:43",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "71",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych we Wroc\u0142awiu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "Na Odrze \u015brodkowej na odcinku mi\u0119dzy Malczycami a uj\u015bciem Bobru warto\u015bci nat\u0119\u017cenia przep\u0142ywu uk\u0142adaj\u0105 si\u0119 miejscami poni\u017cej SNQ. Poniewa\u017c w najbli\u017cszym okresie nie przewiduje si\u0119 wystarczaj\u0105co wysokiej sumy opad\u00f3w deszczu, spodziewane jest utrzymanie si\u0119 aktualnych warunk\u00f3w hydrologicznych - przep\u0142yw\u00f3w poni\u017cej SNQ z wahaniami, mog\u0105cymi wynika\u0107 z prowadzonej lokalnie gospodarki wodnej, zw\u0142aszcza zmian wielko\u015bci dyspozycji odp\u0142ywu ze zbiornik\u00f3w retencyjnych na dop\u0142ywach Odry g\u00f3rnej i \u015brodkowej. W konsekwencji narastaj\u0105cego deficytu opad\u00f3w, mo\u017ce dochodzi\u0107 do rozwoju suszy hydrologicznej.\n",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "dolno\u015bl\u0105skie",
+                "opis": "dolno\u015bl\u0105skie, Odra \u015brodkowa poni\u017cej Malczyc do uj\u015bcia Bobru, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_W_DS_1_C",
+                    "R_W_DS_1_D"
+                ]
+            },
+            {
+                "wojewodztwo": "lubuskie",
+                "opis": "lubuskie, Odra \u015brodkowa poni\u017cej Malczyc do uj\u015bcia Bobru, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_W_LB_1_A"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-09 08:47:33",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-09 08:48:28",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "156",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na odcinku Wis\u0142y od uj\u015bcia Kamiennej do D\u0119blina spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "lubelskie",
+                "opis": "lubelskie, Wis\u0142a od uj\u015bcia Kamiennej do D\u0119blina, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_LU_2_B"
+                ]
+            },
+            {
+                "wojewodztwo": "mazowieckie",
+                "opis": "mazowieckie, Wis\u0142a od uj\u015bcia Kamiennej do D\u0119blina, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_MA_2"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-06 10:03:46",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-06 10:04:41",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "206",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na odcinku Wis\u0142y od uj\u015bcia Raby do uj\u015bcia  Dunajca spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "ma\u0142opolskie",
+                "opis": "ma\u0142opolskie, Wis\u0142a od uj\u015bcia Raby do uj\u015bcia Dunajca, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_MP_2_E"
+                ]
+            },
+            {
+                "wojewodztwo": "\u015bwi\u0119tokrzyskie",
+                "opis": "\u015bwi\u0119tokrzyskie, Wis\u0142a od uj\u015bcia Raby do uj\u015bcia Dunajca, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_SW_2_A"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-09 13:00:16",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-09 13:01:08",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "66",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych we Wroc\u0142awiu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zlewni \u015al\u0119zy i O\u0142awy warto\u015bci nat\u0119\u017cenia przep\u0142ywu uk\u0142adaj\u0105 si\u0119 miejscami na poziomie zbli\u017conym do SNQ lub poni\u017cej. Poniewa\u017c w najbli\u017cszym okresie nie przewiduje si\u0119 wystarczaj\u0105co wysokiej sumy opad\u00f3w deszczu, spodziewane jest utrzymanie si\u0119 aktualnych warunk\u00f3w hydrologicznych - przep\u0142yw\u00f3w poni\u017cej SNQ z wahaniami, mog\u0105cymi wynika\u0107 z prowadzonej lokalnie gospodarki wodnej lub z nieokresowych opad\u00f3w deszczu. W konsekwencji narastaj\u0105cego deficytu opad\u00f3w, mo\u017ce dochodzi\u0107 do rozwoju hydrologicznej suszy.",
+        "komentarz": "Zmiana dotyczy rozszerzenia obszaru obj\u0119tego ostrze\u017ceniem o rzek\u0119 O\u0142aw\u0119 od Zborowic do uj\u015bcia do Odry.",
+        "obszary": [
+            {
+                "wojewodztwo": "dolno\u015bl\u0105skie",
+                "opis": "dolno\u015bl\u0105skie, Zlewnia \u015al\u0119zy i O\u0142awy, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_W_DS_1334",
+                    "Z_W_DS_1334_A",
+                    "Z_W_DS_1336_B",
+                    "Z_W_DS_1334_B",
+                    "Z_W_DS_1336_A"
+                ]
+            },
+            {
+                "wojewodztwo": "opolskie",
+                "opis": "opolskie, Zlewnia \u015al\u0119zy i O\u0142awy, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_W_OP_1334_B",
+                    "Z_W_OP_1334_A"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-13 10:34:04",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-13 10:34:59",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "66",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Poznaniu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w przyrzeczu Warty \u015brodkowej wraz ze zlewniami Kie\u0142baski, Powy i Bawo\u0142u, spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "\u0142\u00f3dzkie",
+                "opis": "\u0142\u00f3dzkie, przyrzecze Warty \u015brodkowej wraz ze zlewniami Kie\u0142baski,Powy i Bawo\u0142u, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_P_LD_18_D"
+                ]
+            },
+            {
+                "wojewodztwo": "wielkopolskie",
+                "opis": "wielkopolskie, przyrzecze Warty \u015brodkowej wraz ze zlewniami Kie\u0142baski,Powy i Bawo\u0142u, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_P_WP_18334",
+                    "Z_P_WP_18_C",
+                    "Z_P_WP_18356",
+                    "Z_P_WP_18352",
+                    "Z_P_WP_18_B"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-24 09:22:18",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-24 09:23:07",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "188",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na obszarze zlewni Wis\u0142oka do uj\u015bcia Lubat\u00f3wki (wraz ze zlewni\u0105 Lubat\u00f3wki) spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "podkarpackie",
+                "opis": "podkarpackie, zlewnia Wis\u0142oka do uj\u015bcia Lubat\u00f3wki (wraz ze zlewni\u0105 Lubat\u00f3wki), susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_PK_226_A",
+                    "Z_K_PK_22632",
+                    "Z_K_PK_22618",
+                    "Z_K_PK_226_A",
+                    "Z_K_PK_2262",
+                    "Z_K_PK_226_B"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-04 09:24:27",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-04 09:25:25",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "94",
+        "biuro": "Biuro Prognoz Hydrologicznych w Gdyni, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Gdyni",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni rzeki Mie\u0144 spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "kujawsko-pomorskie",
+                "opis": "kujawsko-pomorskie, Mie\u0144, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_G_KP_2794"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-13 16:05:07",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-13 16:06:01",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "74",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych we Wroc\u0142awiu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "Na rzece Ma\u0142a Panew warto\u015bci nat\u0119\u017cenia przep\u0142ywu uk\u0142adaj\u0105 si\u0119 na poziomie SNQ lub ni\u017cszym. Poniewa\u017c w najbli\u017cszym okresie nie przewiduje si\u0119 wystarczaj\u0105co wysokiej sumy opad\u00f3w deszczu, spodziewane jest utrzymanie si\u0119 aktualnych warunk\u00f3w hydrologicznych - przep\u0142yw\u00f3w poni\u017cej SNQ w ca\u0142ej zlewni, z wahaniami, mog\u0105cymi wynika\u0107 z prowadzonej lokalnie gospodarki wodnej lub z nieokresowych opad\u00f3w deszczu. W konsekwencji narastaj\u0105cego deficytu opad\u00f3w, mo\u017ce dochodzi\u0107 do rozwoju hydrologicznej suszy.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "opolskie",
+                "opis": "opolskie, Zlewnia Ma\u0142ej Panwi (bez odcinka rzeki od zapory Zb. Turawa do uj\u015bcia do Odry), susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_W_OP_118_A",
+                    "Z_W_OP_118"
+                ]
+            },
+            {
+                "wojewodztwo": "\u015bl\u0105skie",
+                "opis": "\u015bl\u0105skie, Zlewnia Ma\u0142ej Panwi (bez odcinka rzeki od zapory Zb. Turawa do uj\u015bcia do Odry), susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_W_SL_118",
+                    "Z_W_SL_118"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-14 09:50:24",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-14 10:00:00",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "167",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na obszarze zlewni Raby od zbiornika Dobczyce do uj\u015bcia spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "ma\u0142opolskie",
+                "opis": "ma\u0142opolskie, zlewnia Raby od zb. Dobczyce, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_MP_2138_B",
+                    "Z_K_MP_2138_C",
+                    "Z_K_MP_21388",
+                    "Z_K_MP_213892"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-04 09:24:39",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-04 09:25:39",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "83",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Poznaniu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni \u015brodkowej i dolnej Prosny, spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "\u0142\u00f3dzkie",
+                "opis": "\u0142\u00f3dzkie, Prosna \u015brodkowa i dolna, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_P_LD_184_B",
+                    "Z_P_LD_18438",
+                    "Z_P_LD_18482",
+                    "Z_P_LD_184_C"
+                ]
+            },
+            {
+                "wojewodztwo": "wielkopolskie",
+                "opis": "wielkopolskie, Prosna \u015brodkowa i dolna, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_P_WP_184_C",
+                    "Z_P_WP_1844",
+                    "Z_P_WP_18438",
+                    "Z_P_WP_184_B",
+                    "Z_P_WP_18482"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-17 09:53:20",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-17 09:54:14",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "101",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych we Wroc\u0142awiu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zlewni Bobru z Kwis\u0105 przep\u0142yw rzeczny uk\u0142ada si\u0119 na poziomie lub poni\u017cej SNQ. W okresie obowi\u0105zywania ostrze\u017cenia prognozowane jest utrzymanie si\u0119 ni\u017c\u00f3wki hydrologicznej, mog\u0105cej prowadzi\u0107 do rozwoju hydrologicznej suszy.",
+        "komentarz": "Zmiana dotyczy obj\u0119cia ostrze\u017ceniem rzeki Kwisy na terenie woj. lubuskiego",
+        "obszary": [
+            {
+                "wojewodztwo": "dolno\u015bl\u0105skie",
+                "opis": "dolno\u015bl\u0105skie, Zlewnia Bobru z Kwis\u0105 (od Zb. Pilchowice do uj\u015bcia,bez zlewni Czernej Wielkiej, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_W_DS_16_C",
+                    "R_W_DS_166",
+                    "R_W_DS_16_B",
+                    "Z_W_DS_166_B",
+                    "Z_W_DS_98",
+                    "Z_W_DS_166_A",
+                    "Z_W_DS_16_B"
+                ]
+            },
+            {
+                "wojewodztwo": "lubuskie",
+                "opis": "lubuskie, Zlewnia Bobru z Kwis\u0105 (od Zb. Pilchowice do uj\u015bcia,bez zlewni Czernej Wielkiej, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_W_LB_16_B",
+                    "R_W_LB_16_A",
+                    "Z_W_LB_16",
+                    "R_W_LB_166"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-14 09:48:13",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-14 10:00:00",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "166",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na obszarze zlewni Skawinki, Wilgi i przyrzecza Wis\u0142y spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "ma\u0142opolskie",
+                "opis": "ma\u0142opolskie, zlewnie Skawinki, Wilgi i przyrzecze Wis\u0142y, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_K_MP_2_F",
+                    "Z_K_MP_2_D",
+                    "Z_K_MP_21356",
+                    "Z_K_MP_21372"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-04 09:34:19",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-04 09:35:17",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "194",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na obszarze zlewni Dunajca od zb. Czch\u00f3w do uj\u015bcia oraz w zlewni Bia\u0142ej (Tarnowskiej) spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "ma\u0142opolskie",
+                "opis": "ma\u0142opolskie, zlewnia Dunajca od zb. Czch\u00f3w, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_MP_214_C",
+                    "Z_K_MP_2148_B",
+                    "Z_K_MP_2148_A",
+                    "Z_K_MP_214_D"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-07-15 09:25:49",
+        "stopie\u0144": "-1",
+        "data_od": "2026-07-15 09:26:48",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "168",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na obszarze zlewni Czarnej, Koprzywianki i przyrzecza Wis\u0142y spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "\u015bwi\u0119tokrzyskie",
+                "opis": "\u015bwi\u0119tokrzyskie, zlewnia Czarnej, Koprzywianki i przyrzecze Wis\u0142y, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_SW_2178",
+                    "Z_K_SW_2_C",
+                    "Z_K_SW_2_B",
+                    "Z_K_SW_2178_B",
+                    "Z_K_SW_2194",
+                    "Z_K_SW_21788",
+                    "Z_K_SW_217832",
+                    "Z_K_SW_2178_A"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-18 09:50:30",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-18 09:51:25",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "103",
+        "biuro": "Biuro Prognoz Hydrologicznych w Gdyni, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Gdyni",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na odcinku rzeki Drw\u0119cy od Rypienicy do uj\u015bcia, spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "kujawsko-pomorskie",
+                "opis": "kujawsko-pomorskie, Drw\u0119ca od Rypienicy do uj\u015bcia, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_G_KP_28_B"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-07 08:49:40",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-07 08:50:31",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "208",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na obszarze zlewni Wis\u0142oki do uj\u015bcia Jasio\u0142ki spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "ma\u0142opolskie",
+                "opis": "ma\u0142opolskie, zlewnia Wis\u0142oki do uj\u015bcia Jasio\u0142ki (wraz ze zlewni\u0105 Jasio\u0142ki), susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_MP_2182",
+                    "Z_K_MP_218",
+                    "Z_K_MP_2182_B",
+                    "Z_K_MP_21826",
+                    "Z_K_MP_2182_A"
+                ]
+            },
+            {
+                "wojewodztwo": "podkarpackie",
+                "opis": "podkarpackie, zlewnia Wis\u0142oki do uj\u015bcia Jasio\u0142ki (wraz ze zlewni\u0105 Jasio\u0142ki), susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_PK_2182",
+                    "Z_K_PK_2184",
+                    "Z_K_PK_2182",
+                    "Z_K_PK_218_A"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-18 09:53:24",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-18 09:54:11",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "104",
+        "biuro": "Biuro Prognoz Hydrologicznych w Gdyni, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Gdyni",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na odcinku rzeki Wierzycy od Bo\u017cegopola Szlacheckiego do uj\u015bcia, spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "pomorskie",
+                "opis": "pomorskie, Wierzyca od Bo\u017cegopola Szlacheckiego do uj\u015bcia, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_G_PM_298_B"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-18 10:09:08",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-18 10:09:55",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "97",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Poznaniu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w przyrzeczu Odry dolnej od Warty do Gryfina, spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "lubuskie",
+                "opis": "lubuskie, przyrzecze Odry dolnej od Warty do Gryfina, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_P_LB_1"
+                ]
+            },
+            {
+                "wojewodztwo": "zachodniopomorskie",
+                "opis": "zachodniopomorskie, przyrzecze Odry dolnej od Warty do Gryfina, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_P_ZP_1"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-24 07:25:52",
+        "stopie\u0144": "2",
+        "data_od": "2026-08-24 07:26:36",
+        "data_do": "2026-08-25 09:00:00",
+        "prawdopodobienstwo": "90",
+        "numer": "104",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Poznaniu",
+        "zdarzenie": "Wezbranie z przekroczeniem stan\u00f3w ostrzegawczych",
+        "przebieg": "W zwi\u0105zku ze sp\u0142ywem w\u00f3d opadowych, na rzece \u0141u\u017cyca na stacji hydrologicznej Kraszewice przewiduje si\u0119 przekroczenie stanu ostrzegawczego.",
+        "komentarz": "Brak",
+        "obszary": [
+            {
+                "wojewodztwo": "\u0142\u00f3dzkie",
+                "opis": "\u0142\u00f3dzkie, \u0141u\u017cyca, wezbranie z przekroczeniem stan\u00f3w ostrzegawczych",
+                "kod_zlewni": [
+                    "Z_P_LD_18438"
+                ]
+            },
+            {
+                "wojewodztwo": "wielkopolskie",
+                "opis": "wielkopolskie, \u0141u\u017cyca, wezbranie z przekroczeniem stan\u00f3w ostrzegawczych",
+                "kod_zlewni": [
+                    "Z_P_WP_18438"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-24 12:20:35",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-24 12:21:25",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "75",
+        "numer": "62",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych we Wroc\u0142awiu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zlewniach dop\u0142yw\u00f3w Odry od uj\u015bcia Baryczy do uj\u015bcia Bobru (g\u0142\u00f3wnie w woj. lubuskim) przep\u0142yw rzeczny uk\u0142ada si\u0119 na poziomie lub poni\u017cej SNQ. W okresie obowi\u0105zywania ostrze\u017cenia prognozowane jest utrzymanie si\u0119 ni\u017c\u00f3wki hydrologicznej, mog\u0105cej prowadzi\u0107 do rozwoju hydrologicznej suszy.",
+        "komentarz": "Zmiana dotyczy prawdopodobie\u0144stwa, tre\u015bci i obszaru obowi\u0105zywania ostrze\u017cenia - wy\u0142\u0105czono zlewni\u0119 rz. Polski R\u00f3w.",
+        "obszary": [
+            {
+                "wojewodztwo": "dolno\u015bl\u0105skie",
+                "opis": "dolno\u015bl\u0105skie, Odra od G\u0142ogowa do uj\u015bcia Bobru, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_W_DS_1_D"
+                ]
+            },
+            {
+                "wojewodztwo": "lubuskie",
+                "opis": "lubuskie, Odra od G\u0142ogowa do uj\u015bcia Bobru, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_W_LB_1_A"
+                ]
+            },
+            {
+                "wojewodztwo": "wielkopolskie",
+                "opis": "wielkopolskie, Odra od G\u0142ogowa do uj\u015bcia Bobru, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_W_WP_1"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-22 11:23:38",
+        "stopie\u0144": "2",
+        "data_od": "2026-08-22 11:24:23",
+        "data_do": "2026-08-25 20:00:00",
+        "prawdopodobienstwo": "60",
+        "numer": "113",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych we Wroc\u0142awiu",
+        "zdarzenie": "Wezbranie z przekroczeniem stan\u00f3w ostrzegawczych",
+        "przebieg": "Sp\u0142yw wody po opadach ubieg\u0142ych i prognozowanych burzach b\u0119dzie powodowa\u0142 wzrosty stan\u00f3w wody w zlewniach dop\u0142yw\u00f3w Baryczy do strefy wody wysokiej oraz wzrosty na Baryczy. Lokalnie, zw\u0142aszcza w zlewni S\u0105siecznicy mo\u017ce zosta\u0107 przekroczony stan ostrzegawczy.",
+        "komentarz": "Brak",
+        "obszary": [
+            {
+                "wojewodztwo": "dolno\u015bl\u0105skie",
+                "opis": "dolno\u015bl\u0105skie, Barycz bez Orli i Polskiego Rowu, Orla, Polski R\u00f3w, wezbranie z przekroczeniem stan\u00f3w ostrzegawczych",
+                "kod_zlewni": [
+                    "Z_W_DS_14",
+                    "Z_W_DS_146",
+                    "Z_W_DS_148"
+                ]
+            },
+            {
+                "wojewodztwo": "wielkopolskie",
+                "opis": "wielkopolskie, Barycz bez Orli i Polskiego Rowu, Orla, Polski R\u00f3w, wezbranie z przekroczeniem stan\u00f3w ostrzegawczych",
+                "kod_zlewni": [
+                    "Z_W_WP_146",
+                    "Z_W_WP_148"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-07 10:16:20",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-07 10:17:19",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "210",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na odcinku Wis\u0142y od uj\u015bcia Sanu do Kamiennej spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "lubelskie",
+                "opis": "lubelskie, Wis\u0142a od uj\u015bcia Sanu do uj\u015bcia Kamiennej, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_LU_2_A"
+                ]
+            },
+            {
+                "wojewodztwo": "podkarpackie",
+                "opis": "podkarpackie, Wis\u0142a od uj\u015bcia Sanu do uj\u015bcia Kamiennej, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_PK_2_C"
+                ]
+            },
+            {
+                "wojewodztwo": "\u015bwi\u0119tokrzyskie",
+                "opis": "\u015bwi\u0119tokrzyskie, Wis\u0142a od uj\u015bcia Sanu do uj\u015bcia Kamiennej, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_SW_2_D"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-07 10:19:41",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-07 10:20:40",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "211",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na obszarze zlewni Skawy wraz ze zb. \u015awinna Por\u0119ba spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "ma\u0142opolskie",
+                "opis": "ma\u0142opolskie, zlewnia Skawy wraz ze zb. \u015awinna Por\u0119ba, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_MP_2134_A",
+                    "Z_K_MP_2134732",
+                    "Z_K_MP_2134_A",
+                    "Z_K_MP_21346",
+                    "Z_K_MP_2134_B",
+                    "Z_K_MP_21344"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-11 09:41:39",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-11 09:42:30",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "214",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na obszarze zlewni Przemszy i przyrzecza Wis\u0142y spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "ma\u0142opolskie",
+                "opis": "ma\u0142opolskie, zlewnia Przemszy i przyrzecze Wis\u0142y, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_K_MP_2_C",
+                    "Z_K_MP_2128"
+                ]
+            },
+            {
+                "wojewodztwo": "\u015bl\u0105skie",
+                "opis": "\u015bl\u0105skie, zlewnia Przemszy i przyrzecze Wis\u0142y, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_SL_2_B",
+                    "Z_K_SL_2126_B",
+                    "Z_K_SL_212_A",
+                    "Z_K_SL_2126_A",
+                    "Z_K_SL_212_B",
+                    "Z_K_SL_212_C",
+                    "Z_K_SL_2128"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-08 12:18:08",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-08 12:18:55",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "93",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych we Wroc\u0142awiu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": " Na stacji referencyjnej dla Odry skanalizowanej (odcinek od Ko\u017ala do Malczyc) warto\u015bci nat\u0119\u017cenia przep\u0142ywu uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ. Poniewa\u017c w najbli\u017cszym okresie nie przewiduje si\u0119 wystarczaj\u0105co wysokiej sumy opad\u00f3w deszczu, spodziewane jest utrzymanie si\u0119 aktualnych warunk\u00f3w hydrologicznych - przep\u0142yw\u00f3w poni\u017cej SNQ z wahaniami, mog\u0105cymi wynika\u0107 z prowadzonej lokalnie gospodarki wodnej, zw\u0142aszcza zmian wielko\u015bci dyspozycji odp\u0142ywu ze zbiornik\u00f3w retencyjnych na dop\u0142ywach Odry g\u00f3rnej i \u015brodkowej. W konsekwencji narastaj\u0105cego deficytu opad\u00f3w, mo\u017ce dochodzi\u0107 do rozwoju suszy hydrologicznej.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "dolno\u015bl\u0105skie",
+                "opis": "dolno\u015bl\u0105skie, Odra skanalizowana (od Ko\u017ala do Malczyc), susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_W_DS_1_B",
+                    "R_W_DS_1_A"
+                ]
+            },
+            {
+                "wojewodztwo": "opolskie",
+                "opis": "opolskie, Odra skanalizowana (od Ko\u017ala do Malczyc), susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_W_OP_1_B",
+                    "R_W_OP_1_C"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-08 12:32:39",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-08 12:33:38",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "94",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych we Wroc\u0142awiu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zlewni Nysy K\u0142odzkiej powy\u017cej Zbiornika Nysa oraz w zlewniach dop\u0142yw\u00f3w \u0141aby w granicach RP warto\u015bci nat\u0119\u017cenia przep\u0142ywu uk\u0142adaj\u0105 si\u0119 miejscami poni\u017cej SNQ. Poniewa\u017c w najbli\u017cszym okresie nie przewiduje si\u0119 wystarczaj\u0105co wysokiej sumy opad\u00f3w deszczu, spodziewane jest utrzymanie si\u0119 aktualnych warunk\u00f3w hydrologicznych - przep\u0142yw\u00f3w poni\u017cej SNQ z wahaniami, mog\u0105cymi wynika\u0107 z prowadzonej lokalnie gospodarki wodnej lub z nieokresowych opad\u00f3w deszczu. W konsekwencji narastaj\u0105cego deficytu opad\u00f3w, mo\u017ce dochodzi\u0107 do rozwoju suszy hydrologicznej.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "dolno\u015bl\u0105skie",
+                "opis": "dolno\u015bl\u0105skie, zlewnie Nysy K\u0142odzkiej powy\u017cej Zbiornika Nysa i dop\u0142yw\u00f3w \u0141aby w granicach RP, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_W_DS_9412",
+                    "R_W_DS_12",
+                    "Z_W_DS_942",
+                    "Z_W_DS_96",
+                    "Z_W_DS_944",
+                    "Z_W_DS_946",
+                    "Z_W_DS_12_B",
+                    "Z_W_DS_12_C",
+                    "Z_W_DS_12_A"
+                ]
+            },
+            {
+                "wojewodztwo": "opolskie",
+                "opis": "opolskie, zlewnie Nysy K\u0142odzkiej powy\u017cej Zbiornika Nysa i dop\u0142yw\u00f3w \u0141aby w granicach RP, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_W_OP_12_A",
+                    "Z_W_OP_12_B"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-11 09:25:33",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-11 09:26:27",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "213",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na odcinku Wis\u0142y od uj\u015bcia Przemszy do uj\u015bcia Raby spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "ma\u0142opolskie",
+                "opis": "ma\u0142opolskie, Wis\u0142a od uj\u015bcia Przemszy do uj\u015bcia Raby, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_MP_2_B",
+                    "R_K_MP_2_C",
+                    "R_K_MP_2_D"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-11 11:29:57",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-11 11:30:51",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "95",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych we Wroc\u0142awiu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "Na g\u00f3rnej Odrze warto\u015bci nat\u0119\u017cenia przep\u0142ywu uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ. Poniewa\u017c w najbli\u017cszym okresie nie przewiduje si\u0119 wystarczaj\u0105co wysokiej sumy opad\u00f3w deszczu, spodziewane jest utrzymanie si\u0119 aktualnych warunk\u00f3w hydrologicznych - przep\u0142yw\u00f3w poni\u017cej SNQ z wahaniami, mog\u0105cymi wynika\u0107 z prowadzonej lokalnie gospodarki wodnej lub z nieokresowych opad\u00f3w deszczu. W konsekwencji narastaj\u0105cego deficytu opad\u00f3w, mo\u017ce dochodzi\u0107 do rozwoju suszy hydrologicznej.\n",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "opolskie",
+                "opis": "opolskie, rzeka Odra od Cha\u0142upek do Ko\u017ala, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_W_OP_1_A"
+                ]
+            },
+            {
+                "wojewodztwo": "\u015bl\u0105skie",
+                "opis": "\u015bl\u0105skie, rzeka Odra od Cha\u0142upek do Ko\u017ala, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_W_SL_1"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-11 11:39:25",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-11 11:40:10",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "96",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych we Wroc\u0142awiu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zlewniach Bierawki i K\u0142odnicy warto\u015bci nat\u0119\u017cenia przep\u0142ywu uk\u0142adaj\u0105 si\u0119 miejscami poni\u017cej SNQ. Poniewa\u017c w najbli\u017cszym okresie nie przewiduje si\u0119 wystarczaj\u0105co wysokiej sumy opad\u00f3w deszczu, spodziewane jest utrzymanie si\u0119 aktualnych warunk\u00f3w hydrologicznych - przep\u0142yw\u00f3w poni\u017cej SNQ z wahaniami, mog\u0105cymi wynika\u0107 z prowadzonej lokalnie gospodarki wodnej lub z nieokresowych opad\u00f3w deszczu. W konsekwencji narastaj\u0105cego deficytu opad\u00f3w, mo\u017ce dochodzi\u0107 do rozwoju suszy hydrologicznej.\n",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "opolskie",
+                "opis": "opolskie, K\u0142odnica od Zb. Dzier\u017cno Du\u017ce do uj\u015bcia do Odry, K\u0142odnica, Bierawka, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_W_OP_116",
+                    "Z_W_OP_1158"
+                ]
+            },
+            {
+                "wojewodztwo": "\u015bl\u0105skie",
+                "opis": "\u015bl\u0105skie, K\u0142odnica od Zb. Dzier\u017cno Du\u017ce do uj\u015bcia do Odry, K\u0142odnica, Bierawka, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_W_SL_116",
+                    "Z_W_SL_116",
+                    "Z_W_SL_1158"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-13 09:15:14",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-13 09:16:05",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "215",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na obszarze zlewni Czarnej Orawy spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "ma\u0142opolskie",
+                "opis": "ma\u0142opolskie, zlewnia Czarnej Orawy, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_K_MP_8222"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-14 09:15:57",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-14 09:20:00",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "100",
+        "numer": "163",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Warszawie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach w zlewni Ru\u017cu spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "podlaskie",
+                "opis": "podlaskie, Ru\u017c, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_O_PD_26516"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-15 08:45:41",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-15 08:46:28",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "101",
+        "biuro": "Biuro Prognoz Hydrologicznych w Gdyni, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Gdyni",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na odcinku Drw\u0119cy od \u017ar\u00f3d\u0142a do Welu spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "warmi\u0144sko-mazurskie",
+                "opis": "warmi\u0144sko-mazurskie, Drw\u0119ca od \u017ar\u00f3d\u0142a do Welu, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_G_WM_28_A"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-11 11:42:16",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-11 11:43:03",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "97",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych we Wroc\u0142awiu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "Na Bystrzycy poni\u017cej Zbiornika Mietk\u00f3w warto\u015bci nat\u0119\u017cenia przep\u0142ywu uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ. Poniewa\u017c w najbli\u017cszym okresie nie przewiduje si\u0119 wystarczaj\u0105co wysokiej sumy opad\u00f3w deszczu, spodziewane jest utrzymanie si\u0119 aktualnych warunk\u00f3w hydrologicznych - przep\u0142yw\u00f3w poni\u017cej SNQ z wahaniami, mog\u0105cymi wynika\u0107 z prowadzonej lokalnie gospodarki wodnej lub z nieokresowych opad\u00f3w deszczu. W konsekwencji narastaj\u0105cego deficytu opad\u00f3w, mo\u017ce dochodzi\u0107 do rozwoju suszy hydrologicznej.\n",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "dolno\u015bl\u0105skie",
+                "opis": "dolno\u015bl\u0105skie, rzeka Bystrzyca od Zb. Mietk\u00f3w do uj\u015bcia, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_W_DS_134_B"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-15 09:37:46",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-15 09:38:33",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "95",
+        "numer": "218",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na odcinku Wis\u0142y od uj\u015bcia Wis\u0142oki do uj\u015bcia Sanu spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "podkarpackie",
+                "opis": "podkarpackie, Wis\u0142a od uj\u015bcia Wis\u0142oki do uj\u015bcia Sanu, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_PK_2_B"
+                ]
+            },
+            {
+                "wojewodztwo": "\u015bwi\u0119tokrzyskie",
+                "opis": "\u015bwi\u0119tokrzyskie, Wis\u0142a od uj\u015bcia Wis\u0142oki do uj\u015bcia Sanu, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_SW_2_C"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-16 08:48:31",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-16 08:49:31",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "102",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych we Wroc\u0142awiu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zlewni Nysy \u0141u\u017cyckiej przep\u0142yw rzeczny uk\u0142ada si\u0119 na poziomie lub poni\u017cej SNQ. W okresie obowi\u0105zywania ostrze\u017cenia prognozowane jest utrzymanie si\u0119 ni\u017c\u00f3wki hydrologicznej, mog\u0105cej prowadzi\u0107 do rozwoju hydrologicznej suszy.",
+        "komentarz": "Nieokresowe przelotne opady deszczu mog\u0105 powodowa\u0107 przej\u015bciowy wzrost przep\u0142ywu. Na przebieg zjawiska mo\u017ce wp\u0142ywa\u0107 lokalna gospodarka wodna. Ostrze\u017cenie obowi\u0105zuje do czasu wyst\u0105pienia warunk\u00f3w, sprzyjaj\u0105cych odbudowie zasob\u00f3w wodnych w zlewni i utrzymaniu si\u0119 przep\u0142ywu powy\u017cej SNQ.",
+        "obszary": [
+            {
+                "wojewodztwo": "dolno\u015bl\u0105skie",
+                "opis": "dolno\u015bl\u0105skie, Zlewnia Nysy \u0141u\u017cyckiej, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_W_DS_1742",
+                    "R_W_DS_174_A",
+                    "R_W_DS_174_B",
+                    "Z_W_DS_174_B",
+                    "Z_W_DS_174_A"
+                ]
+            },
+            {
+                "wojewodztwo": "lubuskie",
+                "opis": "lubuskie, Zlewnia Nysy \u0141u\u017cyckiej, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_W_LB_174"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-11 11:54:47",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-11 11:55:37",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "99",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych we Wroc\u0142awiu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zlewni g\u00f3rnego Bobru warto\u015bci nat\u0119\u017cenia przep\u0142ywu uk\u0142adaj\u0105 si\u0119 miejscami poni\u017cej SNQ. Poniewa\u017c w najbli\u017cszym okresie nie przewiduje si\u0119 wystarczaj\u0105co wysokiej sumy opad\u00f3w deszczu, w zlewni g\u00f3rnego Bobru i w zlewni Ostro\u017cnicy w granicach RP spodziewane jest utrzymanie si\u0119 aktualnych warunk\u00f3w hydrologicznych - przep\u0142yw\u00f3w poni\u017cej SNQ z wahaniami, mog\u0105cymi wynika\u0107 z prowadzonej lokalnie gospodarki wodnej lub z nieokresowych opad\u00f3w deszczu. W konsekwencji narastaj\u0105cego deficytu opad\u00f3w, mo\u017ce dochodzi\u0107 do rozwoju suszy hydrologicznej.\n",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "dolno\u015bl\u0105skie",
+                "opis": "dolno\u015bl\u0105skie, zlewnia g\u00f3rnego Bobru i zlewnia Ostro\u017cnicy w granicach RP, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_W_DS_16_A",
+                    "Z_W_DS_16_A",
+                    "Z_W_DS_9222"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-14 09:12:03",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-14 09:12:50",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "95",
+        "numer": "216",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na odcinku Wis\u0142y od uj\u015bcia Dunajca do uj\u015bcia Wis\u0142oki spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "ma\u0142opolskie",
+                "opis": "ma\u0142opolskie, Wis\u0142a od uj\u015bcia Dunajca do uj\u015bcia Wis\u0142oki, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_MP_2_F"
+                ]
+            },
+            {
+                "wojewodztwo": "podkarpackie",
+                "opis": "podkarpackie, Wis\u0142a od uj\u015bcia Dunajca do uj\u015bcia Wis\u0142oki, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_PK_2_A"
+                ]
+            },
+            {
+                "wojewodztwo": "\u015bwi\u0119tokrzyskie",
+                "opis": "\u015bwi\u0119tokrzyskie, Wis\u0142a od uj\u015bcia Dunajca do uj\u015bcia Wis\u0142oki, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_K_SW_2_B"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-15 08:48:46",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-15 08:49:37",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "102",
+        "biuro": "Biuro Prognoz Hydrologicznych w Gdyni, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Gdyni",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na odcinku Drw\u0119cy od Welu do Rypienicy (woj. kujawsko-pomorskie) spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "kujawsko-pomorskie",
+                "opis": "kujawsko-pomorskie, Drw\u0119ca od Welu do Rypienicy, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_G_KP_28_A"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-15 09:35:27",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-15 09:36:16",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "95",
+        "numer": "217",
+        "biuro": "Biuro Prognoz Hydrologicznych w Krakowie, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych w Krakowie",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zwi\u0105zku z wyst\u0119puj\u0105cymi niskimi przep\u0142ywami wody, w kolejnych dniach na obszarze zlewni Brenia i przyrzecza Wis\u0142y spodziewane jest dalsze utrzymywanie si\u0119 przep\u0142yw\u00f3w wody poni\u017cej SNQ.",
+        "komentarz": "Ostrze\u017cenie wydawane jest w sytuacji, gdy aktualne lub prognozowane warto\u015bci przep\u0142ywu na stacjach wodowskazowych uznanych za reprezentatywne uk\u0142adaj\u0105 si\u0119 poni\u017cej SNQ przez minimum 10 dni w obr\u0119bie jednego obszaru hydrologicznego (kt\u00f3ry obejmuje grup\u0119 zlewni monitorowanych przez PSHM).",
+        "obszary": [
+            {
+                "wojewodztwo": "ma\u0142opolskie",
+                "opis": "ma\u0142opolskie, zlewnia Brenia i przyrzecze Wis\u0142y, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_K_MP_2_I",
+                    "Z_K_MP_2174"
+                ]
+            },
+            {
+                "wojewodztwo": "podkarpackie",
+                "opis": "podkarpackie, zlewnia Brenia i przyrzecze Wis\u0142y, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_K_PK_2174"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-16 12:17:30",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-16 12:18:19",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "69",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych we Wroc\u0142awiu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "W zlewniach dop\u0142yw\u00f3w (szczeg\u00f3lnie lewostronnych) Odry g\u00f3rnej i \u015brodkowej od Cha\u0142upek do uj\u015bcia Nysy K\u0142odzkiej oraz w zlewniach dop\u0142yw\u00f3w dolnej Nysy K\u0142odzkiej warto\u015bci nat\u0119\u017cenia przep\u0142ywu uk\u0142adaj\u0105 si\u0119 miejscami poni\u017cej SNQ. Poniewa\u017c w najbli\u017cszym okresie nie przewiduje si\u0119 wystarczaj\u0105co wysokiej sumy opad\u00f3w deszczu, spodziewane jest utrzymanie si\u0119 aktualnych warunk\u00f3w hydrologicznych - przep\u0142yw\u00f3w poni\u017cej SNQ z wahaniami, mog\u0105cymi wynika\u0107 z prowadzonej lokalnie gospodarki wodnej lub z nieokresowych opad\u00f3w deszczu. W konsekwencji narastaj\u0105cego deficytu opad\u00f3w, mo\u017ce dochodzi\u0107 do rozwoju hydrologicznej suszy.",
+        "komentarz": "Zmiana dotyczy obj\u0119cia ostrze\u017ceniem hydrologicznym rzeki Osob\u0142ogi od granicy pa\u0144stwa do uj\u015bcia do Odry",
+        "obszary": [
+            {
+                "wojewodztwo": "opolskie",
+                "opis": "opolskie, Zlewnie dop\u0142yw\u00f3w (g\u0142\u00f3wnie lewostronnych) Odry od Cha\u0142upek do uj\u015bcia Stobrawy, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_W_OP_1122",
+                    "Z_W_OP_1_B",
+                    "Z_W_OP_1_A",
+                    "Z_W_OP_12_C",
+                    "R_W_OP_1176",
+                    "Z_W_OP_112",
+                    "Z_W_OP_1174",
+                    "Z_W_OP_1152",
+                    "Z_W_OP_1176"
+                ]
+            },
+            {
+                "wojewodztwo": "\u015bl\u0105skie",
+                "opis": "\u015bl\u0105skie, Zlewnie dop\u0142yw\u00f3w (g\u0142\u00f3wnie lewostronnych) Odry od Cha\u0142upek do uj\u015bcia Stobrawy, susza hydrologiczna",
+                "kod_zlewni": [
+                    "Z_W_SL_1",
+                    "Z_W_SL_1152"
+                ]
+            }
+        ]
+    },
+    {
+        "opublikowano": "2026-08-22 14:27:16",
+        "stopie\u0144": "-1",
+        "data_od": "2026-08-22 14:28:11",
+        "data_do": "9999-12-31 23:59:59",
+        "prawdopodobienstwo": "90",
+        "numer": "100",
+        "biuro": "Biuro Prognoz Hydrologicznych we Wroc\u0142awiu, Wydzia\u0142 Prognoz i Opracowa\u0144 Hydrologicznych we Wroc\u0142awiu",
+        "zdarzenie": "Susza hydrologiczna",
+        "przebieg": "Na \u015brodkowej i dolnej Baryczy przep\u0142yw rzeczny uk\u0142ada si\u0119 jeszcze na poziomie lub poni\u017cej SNQ. ",
+        "komentarz": "Zmiana dotyczy ograniczenia obszaru do samej rzeki Baryczy",
+        "obszary": [
+            {
+                "wojewodztwo": "dolno\u015bl\u0105skie",
+                "opis": "dolno\u015bl\u0105skie, Barycz od Polskiej Wody do uj\u015bcia do Odry, susza hydrologiczna",
+                "kod_zlewni": [
+                    "R_W_DS_14"
+                ]
+            }
+        ]
+    }
+]
